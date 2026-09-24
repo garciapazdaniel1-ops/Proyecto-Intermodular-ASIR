@@ -39,6 +39,6 @@ En el proyecto intervienen diferentes personas y grupos relacionados con el func
 | Interesado | Relación con el proyecto | Necesidad principal |
 |---|---|---|
 | Propietario del gimnasio | Responsable del negocio | Tener una buena organización y control de los recursos |
-| Empleados | Utiliza los recursos y servicios del gimnasio | Poder trabajar con la información de forma sencilla |
+| Personal del gimnasio | Utiliza los recursos y servicios del gimnasio | Poder trabajar con la información de forma sencilla |
 | Clientes | Utilizan los servicios del gimnasio | Recibir una atención adecuada y que sus datos estén protegidos |
 | Administrador informático | Responsable de la infraestructura | Mantener los sistemas, los servicios, la red y la seguridad en funcionamiento |
