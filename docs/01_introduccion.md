@@ -103,3 +103,81 @@ Dentro del alcance funcional se incluyen:
 - Aplicación de medidas básicas de seguridad.
 - Realización de copias de seguridad y recuperación de la información.
 - Documentación de la infraestructura y de las configuraciones realizadas.
+
+### 1.11.2. Alcance técnico
+El proyecto contempla la configuración de los diferentes elementos necesarios para poner en funcionamiento la infraestructura informática del **Gimnasio Paso a Paso**.
+
+Dentro del alcance técnico se incluye la configuración de sistemas operativos, servicios de red, bases de datos, servicios web y medidas de seguridad. También se tendrán en cuenta aspectos relacionados con la disponibilidad de los servicios y la protección de la información.
+
+La infraestructura se desarrollará utilizando un entorno virtualizado que permita realizar las pruebas y configuraciones necesarias durante el proyecto.
+
+### 1.11.3. Alcance temporal
+El proyecto **VitalFit** se desarrollará durante el curso académico, siguiendo diferentes fases de trabajo.
+
+En primer lugar, se realizará el análisis de las necesidades del gimnasio y la planificación del proyecto. Después se llevará a cabo el diseño y la configuración de la infraestructura, incluyendo los diferentes servicios y medidas de seguridad.
+
+Finalmente, se realizarán las pruebas necesarias para comprobar que todo funciona correctamente y se elaborará la documentación final del proyecto.
+
+### 1.11.4. Recursos y plataforma
+Para realizar el proyecto **VitalFit** se utilizarán recursos informáticos que permitan crear y probar la infraestructura del gimnasio.
+
+El proyecto se desarrollará en un entorno virtualizado, utilizando máquinas virtuales para realizar las diferentes configuraciones y pruebas. También se utilizarán herramientas y programas relacionados con la administración de sistemas, redes, bases de datos, servicios web y seguridad.
+
+La virtualización permitirá realizar las pruebas de la infraestructura sin necesidad de disponer inicialmente de todos los equipos físicos que tendría una instalación real.
+
+## 1.12. Requisitos del proyecto
+
+### 1.12.1. Requisitos funcionales
+Los requisitos funcionales indican las funciones que debe permitir realizar la infraestructura del **Gimnasio Paso a Paso**.
+
+- Gestionar la información de los clientes.
+- Gestionar la información relacionada con las actividades y horarios.
+- Permitir el acceso a los recursos a los usuarios autorizados.
+- Proporcionar los servicios necesarios para el funcionamiento del gimnasio.
+- Permitir realizar copias de seguridad de la información.
+- Permitir recuperar la información en caso de pérdida o fallo.
+- Mantener organizada la información utilizada por los diferentes servicios.
+
+### 1.12.2. Requisitos no funcionales
+Los requisitos no funcionales indican las características que debe cumplir la infraestructura para que funcione de forma adecuada.
+
+- **Seguridad:** proteger la información y evitar accesos no autorizados.
+- **Disponibilidad:** mantener los servicios disponibles cuando sean necesarios.
+- **Rendimiento:** conseguir que los servicios funcionen de forma fluida y sin retrasos innecesarios.
+- **Fiabilidad:** reducir la posibilidad de pérdida de información y fallos en los servicios.
+- **Mantenibilidad:** facilitar la administración, configuración y mantenimiento de la infraestructura.
+- **Escalabilidad:** permitir ampliar los recursos de la infraestructura si las necesidades del gimnasio aumentan.
+
+### 1.12.3. Requisitos de negocio
+Los requisitos de negocio están relacionados con las necesidades del **Gimnasio Paso a Paso** y con la mejora de su funcionamiento diario.
+
+- Mejorar la organización de la información del gimnasio.
+- Facilitar el trabajo de los empleados.
+- Reducir el tiempo necesario para realizar tareas de gestión.
+- Mantener la información organizada y protegida.
+- Mejorar la disponibilidad de los servicios utilizados por el gimnasio.
+- Facilitar el mantenimiento y la administración de los recursos informáticos.
+
+### 1.12.4. Requisitos por módulo
+El proyecto **VitalFit** integra los diferentes módulos relacionados con la infraestructura informática del gimnasio.
+
+| Módulo | Requisitos relacionados |
+|---|---|
+| **ASGBD** | Gestionar y almacenar de forma organizada la información del gimnasio mediante una base de datos. |
+| **ASO** | Configurar y administrar los sistemas operativos necesarios para el funcionamiento de la infraestructura. |
+| **IAW** | Implementar y configurar los servicios web necesarios para facilitar el acceso a la información. |
+| **Servicios de Red e Internet** | Configurar los servicios de red necesarios para permitir la comunicación entre los diferentes equipos y servicios. |
+| **Seguridad y Alta Disponibilidad** | Proteger la información y los servicios, realizar copias de seguridad y aplicar medidas para mantener la disponibilidad de la infraestructura. |
+
+### 1.12.5. Matriz de trazabilidad
+La matriz de trazabilidad permite relacionar los requisitos del proyecto con los módulos de 2.º ASIR que se trabajan en **VitalFit**.
+
+| Requisito | ASGBD | ASO | IAW | Servicios de Red e Internet | Seguridad y Alta Disponibilidad |
+|---|---|---|---|---|---|
+| Gestión de la información | X | | | | |
+| Administración de sistemas | | X | | | |
+| Servicios web | | | X | | |
+| Servicios de red | | | | X | |
+| Seguridad de la información | | | | | X |
+| Copias de seguridad y recuperación | | | | | X |
+| Disponibilidad de los servicios | | | | | X |
