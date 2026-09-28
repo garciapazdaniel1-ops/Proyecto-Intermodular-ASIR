@@ -72,6 +72,3 @@ El propietario y el administrador informático tienen una influencia alta porque
 El personal del gimnasio tiene un interés alto porque utilizará los sistemas, aunque su capacidad para tomar decisiones sobre la infraestructura será menor.
 
 Los clientes tienen una relación más indirecta con el proyecto, ya que utilizarán principalmente los servicios del gimnasio y no se encargarán de administrar la infraestructura.
-| Seguridad de la información | | | | | X |
-| Copias de seguridad y recuperación | | | | | X |
-| Disponibilidad de los servicios | | | | | X |
